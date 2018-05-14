@@ -1,0 +1,19 @@
+{
+  "name": "requirejs-bower",
+  "version": "1.0.0",
+  "description": "Bower packaging for [RequireJS](http://requirejs.org).",
+  "main": "require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telegraph/requirejs-bower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telegraph/requirejs-bower/issues"
+  },
+  "homepage": "https://github.com/telegraph/requirejs-bower#readme"
+}
